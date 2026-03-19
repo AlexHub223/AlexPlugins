@@ -1,0 +1,41 @@
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\obj\Debug\net48\InfoRestorer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\obj\Debug\net48\InfoRestorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\obj\Debug\net48\InfoRestorer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\obj\Debug\net48\InfoRestorer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\obj\Debug\net48\InfoRestorer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\bin\Debug\net48\InfoRestorer.dll
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\bin\Debug\net48\InfoRestorer.pdb
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\bin\Debug\net48\Assembly-CSharp.dll
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\bin\Debug\net48\com.rlabrecque.steamworks.net.dll
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\bin\Debug\net48\Rocket.API.dll
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\bin\Debug\net48\Rocket.Core.dll
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\bin\Debug\net48\Rocket.Unturned.dll
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\bin\Debug\net48\UnityEngine.CoreModule.dll
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\bin\Debug\net48\UnityEngine.dll
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\bin\Debug\net48\UnityEngine.PhysicsModule.dll
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\obj\Debug\net48\InfoRest.381EAFD3.Up2Date
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\obj\Debug\net48\InfoRestorer.dll
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\obj\Debug\net48\InfoRestorer.pdb
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\bin\Debug\net48\InfoRestorer.dll
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\bin\Debug\net48\InfoRestorer.pdb
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\bin\Debug\net48\Rocket.API.dll
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\bin\Debug\net48\Rocket.Core.dll
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\bin\Debug\net48\Rocket.Unturned.dll
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\bin\Debug\net48\Assembly-CSharp.dll
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\bin\Debug\net48\SDG.NetTransport.dll
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\bin\Debug\net48\UnityEngine.CoreModule.dll
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\bin\Debug\net48\UnityEngine.PhysicsModule.dll
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\bin\Debug\net48\UnityEngine.dll
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\bin\Debug\net48\UnityEx.dll
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\bin\Debug\net48\UnturnedDat.dll
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\bin\Debug\net48\com.rlabrecque.steamworks.net.dll
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\obj\Debug\net48\InfoRestorer.csproj.AssemblyReference.cache
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\obj\Debug\net48\InfoRestorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\obj\Debug\net48\InfoRestorer.AssemblyInfoInputs.cache
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\obj\Debug\net48\InfoRestorer.AssemblyInfo.cs
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\obj\Debug\net48\InfoRestorer.csproj.CoreCompileInputs.cache
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\obj\Debug\net48\InfoRest.381EAFD3.Up2Date
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\obj\Debug\net48\InfoRestorer.dll
+C:\Users\JuanCarlos\Desktop\Plugins Unturned\InfoRestorer\InfoRestorer\obj\Debug\net48\InfoRestorer.pdb

@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\obj\Debug\net6.0\InfoRestorer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\obj\Debug\net6.0\InfoRestorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\obj\Debug\net6.0\InfoRestorer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\obj\Debug\net6.0\InfoRestorer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Simple911edit\InfoRestorer\InfoRestorer\obj\Debug\net6.0\InfoRestorer.csproj.CoreCompileInputs.cache

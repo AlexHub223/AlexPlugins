@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\APluginsNMRP\build_output\InfoRestorer\InfoRestorer.dll
+C:\Users\Admin\Desktop\APluginsNMRP\build_output\InfoRestorer\InfoRestorer.pdb
+C:\Users\Admin\Desktop\APluginsNMRP\InfoRestorer\InfoRestorer\obj\Release\net48\InfoRestorer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\APluginsNMRP\InfoRestorer\InfoRestorer\obj\Release\net48\InfoRestorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\APluginsNMRP\InfoRestorer\InfoRestorer\obj\Release\net48\InfoRestorer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\APluginsNMRP\InfoRestorer\InfoRestorer\obj\Release\net48\InfoRestorer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\APluginsNMRP\InfoRestorer\InfoRestorer\obj\Release\net48\InfoRestorer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\APluginsNMRP\InfoRestorer\InfoRestorer\obj\Release\net48\InfoRest.381EAFD3.Up2Date
+C:\Users\Admin\Desktop\APluginsNMRP\InfoRestorer\InfoRestorer\obj\Release\net48\InfoRestorer.dll
+C:\Users\Admin\Desktop\APluginsNMRP\InfoRestorer\InfoRestorer\obj\Release\net48\InfoRestorer.pdb

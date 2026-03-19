@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JuanCarlos\\Desktop\\Plugins Unturned\\InfoRestorer\\InfoRestorer\\InfoRestorer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JuanCarlos\\Desktop\\Plugins Unturned\\InfoRestorer\\InfoRestorer\\InfoRestorer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JuanCarlos\\Desktop\\Plugins Unturned\\InfoRestorer\\InfoRestorer\\InfoRestorer.csproj",
+        "projectName": "InfoRestorer",
+        "projectPath": "C:\\Users\\JuanCarlos\\Desktop\\Plugins Unturned\\InfoRestorer\\InfoRestorer\\InfoRestorer.csproj",
+        "packagesPath": "C:\\Users\\JuanCarlos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JuanCarlos\\Desktop\\Plugins Unturned\\InfoRestorer\\InfoRestorer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JuanCarlos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "RestoreMonarchy.RocketRedist": {
+              "target": "Package",
+              "version": "[3.26.1.1, )"
+            },
+            "RestoreMonarchy.UnturnedRedist": {
+              "target": "Package",
+              "version": "[3.26.1.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.418\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
