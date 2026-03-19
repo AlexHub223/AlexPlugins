@@ -5,7 +5,7 @@
 > [!IMPORTANT]
 > This plugin was originally developed by **Ocelot** and is currently **deprecated/abandoned** by the original author.
 > 
-> This version has been **fixed and cleaned** by **Alex** to ensure compatibility with modern Unturned (2026+) and to remove unnecessary license-checking systems (DRM) that prevented it from working on current servers.
+> This version has been **fixed and cleaned** by **Alex** to ensure compatibility with modern Unturned (2026+).
 
 ## 🚀 Features
 
